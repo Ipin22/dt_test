@@ -1,13 +1,5 @@
 # Android device tree for OPPO A12/A11K (CPH2083)
 
-```
-#
-# Copyright (C) 2024 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
-
 OPPO A12/A11k (codenamed _"OP4BFB"_) is a budget range smartphone from OPPO, announced in April 2020.
 ## Status
 **Working**:
@@ -31,3 +23,12 @@ Camera (Front)  | 5 MP, f/2.0, 1/5", 1.12µm
 Features| Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass	
 ## Device picture
 ![OPPO A12](https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a12-1.jpg "OPPO A12")
+
+
+```
+#
+# Copyright (C) 2024 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
