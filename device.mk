@@ -67,6 +67,7 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     fstab.mt6765 \
+    fstab.enableswap \
     factory_init.connectivity.rc \
     factory_init.project.rc \
     factory_init.rc \
