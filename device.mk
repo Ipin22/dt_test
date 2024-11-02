@@ -111,6 +111,7 @@ PRODUCT_PACKAGES += \
     meta_init.project.rc \
     meta_init.rc \
     multi_init.rc \
+    init.rc \
     init.recovery.mt6765.rc \
     ueventd.rc \
     ueventd.reserve.rc \
